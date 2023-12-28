@@ -1,0 +1,14 @@
+LOG-INFO : Inside onStart function
+Browser Name from Parameter Value - Edge
+Application launched
+LOG:INFO - Browser is launched
+LOG-INFO : Inside onTestStart function.TestCase Name -LoginAndLogout
+Log-INFO : -Start of Execution  - TC1_LoginAndLogoutFromApplication
+Log-DONE : --User credential entered on Login page ScreenshotFileName - 00_18_29
+Log-DONE : Step1-Verified Welcome message after successfull login to application ScreenshotFileName - 00_18_32
+Log-PASS : Step1-User Logged in Successfully ScreenshotFileName - 00_18_32
+Log-DONE : Step2-MainMenu button is clicked ScreenshotFileName - 00_18_35
+Log-DONE : Step2-Verified cart button is not visible after logout ScreenshotFileName - 00_18_48
+Log-PASS : Step2-User Logged out Successfully ScreenshotFileName - 00_18_51
+Log-INFO : -End of Execution  - TC1_LoginAndLogoutFromApplication
+LOG-INFO : Inside onTestSuccess function.TestCase Name -LoginAndLogout

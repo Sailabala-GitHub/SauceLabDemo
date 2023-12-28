@@ -1,0 +1,81 @@
+LOG-INFO : Inside onStart function
+Browser Name from Parameter Value - Edge
+Application launched
+LOG:INFO - Browser is launched
+LOG-INFO : Inside onTestStart function.TestCase Name -LoginAndLogout
+Log-INFO : -Start of Execution  - TC1_LoginAndLogoutFromApplication
+Log-DONE : --User credential entered on Login page ScreenshotFileName - 00_25_53
+Log-DONE : Step1-Verified Welcome message after successfull login to application ScreenshotFileName - 00_25_55
+Log-PASS : Step1-User Logged in Successfully ScreenshotFileName - 00_25_55
+Log-DONE : Step2-MainMenu button is clicked ScreenshotFileName - 00_25_58
+Log-DONE : Step2-Verified cart button is not visible after logout ScreenshotFileName - 00_26_10
+Log-PASS : Step2-User Logged out Successfully ScreenshotFileName - 00_26_10
+Log-INFO : -End of Execution  - TC1_LoginAndLogoutFromApplication
+LOG-INFO : Inside onTestSuccess function.TestCase Name -LoginAndLogout
+LOG:INFO - Closing Browser
+Deleted file: 00_01_51.png
+Deleted file: 00_01_53.png
+Deleted file: 00_01_54.png
+Deleted file: 00_01_56.png
+Deleted file: 00_02_08.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 00_05_49.png
+Deleted file: 00_05_51.png
+Deleted file: 00_05_52.png
+Deleted file: 00_05_54.png
+Deleted file: 00_06_06.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 00_15_35.png
+Deleted file: 00_15_37.png
+Deleted file: 00_15_40.png
+Deleted file: 00_15_52.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 00_18_29.png
+Deleted file: 00_18_32.png
+Deleted file: 00_18_35.png
+Deleted file: 00_18_48.png
+Deleted file: 00_18_50.png
+Deleted file: 00_18_51.png
+Failed to delete file: LastExecutionLogs.txt
+Deleted file: 00_25_53.png
+Deleted file: 00_25_55.png
+Deleted file: 00_25_58.png
+Deleted file: 00_26_10.png
+Failed to delete file: LastExecutionLogs.txt
+Deleted file: 21_16_52.png
+Deleted file: 21_16_54.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 21_19_44.png
+Deleted file: 21_19_47.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 21_26_36.png
+Deleted file: 21_26_39.png
+Deleted file: 21_26_41.png
+Deleted file: 21_26_53.png
+Deleted file: 21_27_03.png
+Deleted file: 21_27_06.png
+Deleted file: 21_27_12.png
+Deleted file: 21_27_14.png
+Deleted file: 21_27_29.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+Deleted file: 23_50_52.png
+Deleted file: 23_50_57.png
+Deleted file: 23_50_59.png
+Deleted file: 23_51_03.png
+Deleted file: 23_51_18.png
+Deleted file: 23_51_19.png
+Deleted file: LastExecutionLogs.txt
+Deleted file: Summary.html
+LOG-INFO : Inside onFinish function
+
+===============================================
+Suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+

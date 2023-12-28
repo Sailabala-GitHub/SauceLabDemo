@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T00:24:55 IST" name="Suite" finished-at="2023-12-28T00:26:11 IST" duration-ms="75561">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T00:24:55 IST" name="Single" finished-at="2023-12-28T00:26:11 IST" duration-ms="75561">
+      <class name="TestCases.TC1_LoginAndLogoutFromApplication">
+        <test-method is-config="true" signature="StoreLogsToTextFile()[pri:0, instance:TestCases.TC1_LoginAndLogoutFromApplication@3ad2e17]" started-at="2023-12-28T00:24:55 IST" name="StoreLogsToTextFile" finished-at="2023-12-28T00:24:55 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StoreLogsToTextFile -->
+        <test-method is-config="true" signature="LaunchApplication(java.lang.String)[pri:0, instance:TestCases.TC1_LoginAndLogoutFromApplication@3ad2e17]" started-at="2023-12-28T00:24:55 IST" name="LaunchApplication" finished-at="2023-12-28T00:25:51 IST" duration-ms="56071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC1_LoginAndLogoutFromApplication@3ad2e17]" started-at="2023-12-28T00:25:51 IST" name="setupDriver" finished-at="2023-12-28T00:25:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="LoginAndLogout()[pri:0, instance:TestCases.TC1_LoginAndLogoutFromApplication@3ad2e17]" started-at="2023-12-28T00:25:51 IST" name="LoginAndLogout" finished-at="2023-12-28T00:26:10 IST" duration-ms="18867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAndLogout -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:TestCases.TC1_LoginAndLogoutFromApplication@3ad2e17]" started-at="2023-12-28T00:26:10 IST" name="CloseApplication" finished-at="2023-12-28T00:26:11 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApplication -->
+      </class> <!-- TestCases.TC1_LoginAndLogoutFromApplication -->
+    </test> <!-- Single -->
+  </suite> <!-- Suite -->
+</testng-results>
